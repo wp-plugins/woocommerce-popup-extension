@@ -1,4 +1,4 @@
-===Woocommerce Product Pop Up===
+=== Woocommerce Product Pop Up ===
 Contributors: (iwcontribution)
 Tags: Product Pop Up, Woocommerce Pop Up, Woocommerce Extension
 Requires at least: 3.5.2
@@ -16,6 +16,6 @@ This is Woocommerce Pop-Up extension which helps to show product on a pop-up wit
 == Screenshots ==
 1. This is Front-End Shop page Page. By Clicking on "Add to cart" button you can see the product on Pop-Up.
 
-== 1.0 ==
+= 1.0 =
 The First Release
 
