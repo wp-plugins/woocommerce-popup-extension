@@ -1,5 +1,5 @@
 === Woocommerce Product Pop Up ===
-Contributors: (iwcontribution)
+Contributors: infoway
 Tags: Product Pop Up, Woocommerce Pop Up, Woocommerce Extension
 Requires at least: 3.5.2
 Tested up to: 4.2.2
