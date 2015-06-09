@@ -14,8 +14,8 @@ This is Woocommerce Pop-Up extension which helps to show product on a pop-up wit
 3. Activate the plugin through the 'Plugins' menu in WordPress Admin.
 
 == Screenshots ==
-1.This is Front-End Shop page Page. By Clicking on "Add to cart" button you can see the product on Pop-Up.
+1. This is Front-End Shop page Page. By Clicking on "Add to cart" button you can see the product on Pop-Up.
 
-= 1.0 =
+== 1.0 ==
 The First Release
 
